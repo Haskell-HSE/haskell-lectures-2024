@@ -67,7 +67,7 @@ Some more examples from Serokell
 * Hasura is an open-source GraphQL engine that gives you instant access to a
   GraphQL API for your data. In the GitHub repository of Hasura, Haskell is the
   most used language, followed by languages like TypeScript, JavaScript, Python,
-  and Go. At the start of 2022, Hasura raised $100 million.
+  and Go. At the start of 2022, Hasura raised \$100 million.
 * Microsoft uses Haskell in Bond, a cross-platform framework for working with
   schematized data. The Haskell part of Bond is mainly gbc, a command-line code
   generation tool that can generate C++ and C# code using Bond. For a long time,
